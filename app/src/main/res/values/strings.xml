@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cabela\'s Smoker Companion</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_cook_planner">Cook Planner</string>
+    <string name="title_devices">Devices</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_wifi_setup">Wi-Fi Setup</string>
+    
+    <!-- Connection Strings -->
+    <string name="status_connected">Connected</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_scanning">Scanning for Grill…</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_simulator">Simulator Mode (Active)</string>
+    
+    <!-- Smoker Controls -->
+    <string name="grill_temp">Grill Temp</string>
+    <string name="target_temp">Set Target</string>
+    <string name="smoke_level">Smoke Level</string>
+    <string name="probe_1">Probe 1</string>
+    <string name="probe_2">Probe 2</string>
+    <string name="probe_3">Probe 3</string>
+    <string name="probe_4">Probe 4</string>
+    <string name="pellet_level">Pellet Level</string>
+    <string name="pellet_ok">Pellet Hopper OK</string>
+    <string name="pellet_low">Low Pellets Alert!</string>
+    
+    <!-- Notification strings -->
+    <string name="notif_channel_name">Cook Monitoring</string>
+    <string name="notif_channel_desc">Shows real-time grill and probe temperatures during active cooks</string>
+    <string name="notif_alarm_channel_name">Target Temperature Alarms</string>
+    <string name="notif_alarm_channel_desc">Audible alerts when meat probes reach target temperatures</string>
+</resources>
